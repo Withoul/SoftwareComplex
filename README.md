@@ -1,6 +1,6 @@
 # Software Complex - Simulador de Exámenes Profesional
 
-**Software Complex** es un simulador interactivo diseñado específicamente para la preparación del **examen complexivo de la carrera de Desarrollo de Software** del **Instituto Universitario Japón**. La aplicación cuenta con un banco de **400 preguntas oficiales** y está desarrollada en **Flutter** para ofrecer una experiencia de estudio gamificada, fluida y premium. Ayuda a los estudiantes a prepararse mediante múltiples modos de estudio, estadísticas en tiempo real, reforzamiento adaptativo y un sistema inteligente de recordatorios.
+**Software Complex** es un simulador interactivo diseñado específicamente para la preparación del **examen complexivo de la carrera de Desarrollo de Software** del **Instituto Universitario Japón**. La aplicación cuenta con un banco de **400 preguntas oficiales** y está desarrollada en **Flutter**.
 
 ---
 
@@ -18,7 +18,7 @@ La aplicación está construida sobre una arquitectura modular y reactiva, optim
 
 ---
 
-## 🧠 Lógica de Negocio y Funcionamiento Interno
+## 🧠 Lógica y Funcionamiento Interno
 
 ### 1. Sistema Inteligente de Notificaciones Diarias
 Para maximizar el engagement sin abrumar al estudiante, la aplicación cuenta con un algoritmo de recordatorio inteligente:
